@@ -5,7 +5,7 @@ Features:
 -New Remnant ships, mostly capital ships, and station enhancements.  
 -New and revamped Remnant drones.  
 -Re-tuned Remnant variants for players to fight.  
--New Adaptive Subsystem hullmods that can be used by Remnant and modded player ships. Gets added dynamically to fleets in the game.  
+-New Adaptive Subsystem hullmods that can be used by Remnant and modded player ships. Gets added dynamically to encountered fleets in the game.  
 
 -New Lion's Guard carrier based on the Executor.  
 -Re-tuned Diktat/Lion's Guard ships to be slightly less overfluxed.  
@@ -15,7 +15,7 @@ Features:
 
 -New pirate battleship and phase destroyer with blueprints gained from missions.  
 
--4 new bounty board missions:  
+-4 new bounty board missions (requires player lvl 8):
   -To Hunt a White Whale vs Pirates.  
   -A Diamond in the Dark OR Gaining Vantage vs Tri-Tach (access by letting Diamond expire).  
   -Cleaning up a Mess vs Remnant Mess (requires Hazard Mining Incorporated).  
