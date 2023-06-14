@@ -15,7 +15,7 @@ Features:
 
 -New pirate battleship and phase destroyer with blueprints gained from missions.  
 
--4 new bounty board missions (requires player lvl 8):
+-4 new bounty board missions (requires player lvl 8):  
   -To Hunt a White Whale vs Pirates.  
   -A Diamond in the Dark OR Gaining Vantage vs Tri-Tach (access by letting Diamond expire).  
   -Cleaning up a Mess vs Remnant Mess (requires Hazard Mining Incorporated).  
