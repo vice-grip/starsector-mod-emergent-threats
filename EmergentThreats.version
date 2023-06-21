@@ -1,0 +1,11 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/vice-grip/starsector-mod-militarized-odyssey/main/EmergentThreats.version",
+    "modName":"Emergent Threats",
+    "modThreadId":27284,
+    "modVersion":
+    {
+        "major":0,
+        "minor":1,
+        "patch":"1"
+    },
+}
