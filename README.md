@@ -14,14 +14,14 @@ Features:
 -A modification to the core game's Kinetic Blaster to give it a more unique role  
 -Diktat Navy now occasionally fields LG ships as well. LG ships can occasionally be bought on the market  
 
--New Tri-Tachyon ships
--Adjusted doctring to re-enable carriers in TT fleets  
--New Diktat/Tri-Tachyon sold energy weapons
+-New Tri-Tachyon ships  
+-Adjusted Tri-Tachyon fleet doctrine to re-enable carriers in TT fleets  
+-New Diktat/Tri-Tachyon sold energy weapons  
 -Upgrades for the Starlight Odyssey (Underworld)
 
 -New pirate battlecruiser
 
 -Emergent Technology hullmods, featuring various exotic upgrades that are not a part of Adaptive Subsystems, including cross-mod content
--New bounty board missions, unique boss ships, and technologies for players to face and acquire (requires player level 8+)
--A new hybrid fuel/cargo hauler
--New sound for the Autopulse Laser  
+-New bounty board missions, unique boss ships, and technologies for players to face and acquire (requires player level 8+)  
+-A new hybrid fuel/cargo hauler  
+-New sound for the Autopulse Laser
