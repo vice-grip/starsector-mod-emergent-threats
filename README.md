@@ -21,7 +21,7 @@ Features:
 
 -New pirate battlecruiser
 
--Emergent Technology hullmods, featuring various exotic upgrades that are not a part of Adaptive Subsystems, including cross-mod content
+-Emergent Technology hullmods, featuring various exotic upgrades that are not a part of Adaptive Subsystems, including cross-mod content  
 -New bounty board missions, unique boss ships, and technologies for players to face and acquire (requires player level 8+)  
 -A new hybrid fuel/cargo hauler  
 -New sound for the Autopulse Laser
