@@ -9,7 +9,7 @@ Features:
 -Re-tuned Remnant variants for players to fight  
 -New Adaptive Subsystem hullmods that can be used by Remnant and modded player ships. Gets added dynamically to encountered fleets in the game, and applied across multiple modules on modular ships.
 
--New Lion's Guard carriers and fighters
+-New Lion's Guard carriers and fighters  
 -Re-tuned Diktat/Lion's Guard ships to be slightly less overfluxed  
 -A modification to the core game's Kinetic Blaster to give it a more unique role
 -Diktat Navy now occasionally fields LG ships as well. LG ships can be bought on the market  
