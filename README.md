@@ -12,7 +12,7 @@ Features:
 -New Lion's Guard carriers and fighters  
 -Re-tuned Diktat/Lion's Guard ships to be slightly less overfluxed  
 -A modification to the core game's Kinetic Blaster to give it a more unique role  
--Diktat Navy now occasionally fields LG ships as well. LG ships can be bought on the market  
+-Diktat Navy now occasionally fields LG ships as well. LG ships can occasionally be bought on the market  
 
 -New Tri-Tachyon ships
 -Adjusted doctring to re-enable carriers in TT fleets  
