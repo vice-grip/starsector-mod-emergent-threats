@@ -19,9 +19,7 @@ Features:
 -New Diktat/Tri-Tachyon sold energy weapons  
 -Upgrades for the Starlight Odyssey (Underworld)
 
--New pirate battlecruiser
-
+-Various other new ships  
 -Emergent Technology hullmods, featuring various exotic upgrades that are not a part of Adaptive Subsystems, including cross-mod content  
 -New bounty board missions, unique boss ships, and technologies for players to face and acquire (requires player level 8+)  
--A new hybrid fuel/cargo hauler  
 -New sound for the Autopulse Laser
