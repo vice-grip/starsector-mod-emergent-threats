@@ -22,5 +22,5 @@ Features:
 
 -Various other new ships and weapons
 -Emergent Technology hullmods, featuring various exotic upgrades that are not a part of Adaptive Subsystems, including cross-mod content  
--New bounty board missions, unique boss ships, and technologies for players to face and acquire (requires player level 8+)  
+-New bounty board missions, unique boss ships, and technologies for players to face and acquire (requires player level 8+ and 12+)  
 -New sound for the Autopulse Laser
